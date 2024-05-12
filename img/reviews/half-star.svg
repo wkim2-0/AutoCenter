@@ -1,0 +1,15 @@
+<svg width="20.000000" height="20.000000" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip0_376">
+			<rect id="star_fill" rx="-0.500000" width="19.000000" height="19.000000" transform="translate(0.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="star_fill" rx="-0.500000" width="19.000000" height="19.000000" transform="translate(0.500000 0.000000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip0_376)">
+		<path id="路径" d="M9.09 1.88C9.5 1.19 10.49 1.19 10.9 1.88L13.22 5.88L17.75 6.86C18.53 7.03 18.84 7.98 18.3 8.58L15.22 12.03L15.69 16.63C15.77 17.42 14.96 18.01 14.23 17.69L10 15.82L5.76 17.69C5.03 18.01 4.22 17.42 4.3 16.63L4.77 12.03L1.69 8.58C1.15 7.98 1.46 7.03 2.24 6.86L6.77 5.88L9.09 1.88Z" fill="#E6E6E6" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="路径" d="M10 15.82L5.76 17.69C5.03 18.01 4.22 17.42 4.3 16.63L4.77 12.03L1.69 8.58C1.15 7.98 1.46 7.03 2.24 6.86L6.77 5.88L9.09 1.88C9.3 1.54 9.65 1.37 10 1.37L10 15.82Z" fill="#FFCC02" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
